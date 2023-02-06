@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jared-Heydenrych
 - 👀 I’m interested in Video Games, Cooking, Ice Scating and Anime
 - 🌱 I’m currently learning Java libraries and a bit of C#
-- 💞️ I’m looking to collaborate on video game projects or projects that use Java
+- 💞️ I’m looking to collaborate on video game projects or projects that use Java or Python
 - 📫 How to reach me - email: jaredheydenrych319@gmail.com
 
 <!---
